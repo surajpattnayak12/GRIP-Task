@@ -1,7 +1,7 @@
 .donation-page {
     height: 100vh;
     width: 100%;
-    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("file:///d:/GRIP TASK/material/donation-page.jpg");
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("donation-page.jpg");
     background-size: cover;
     background-position: center;
     display: flex;
