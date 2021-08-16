@@ -1,2 +1,2 @@
 # GRIP-Task
-This a task for my internship at Sparks Foundation.
+This is a task for my internship at Sparks Foundation.
